@@ -1,0 +1,11 @@
+span{
+    /*display:block; */
+    visibility: hidden;
+    margin: 20px;
+    padding: 20px;
+}
+div{
+    /* display : line; */
+    margin: 20px;
+    padding: 20px; 
+}
