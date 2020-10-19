@@ -1,25 +1,10 @@
-span{
-    /* display: block; */
-    /* display: inline-block; */
-    /* display: none; */ 
-    /* visibility: hidden; */
+span {
+    visibility: hidden;
     margin: 20px;
     padding: 20px;
-    display: inline-block;
 }
 
-.p2{
-    display: inline;
-}
-.p3{
-    display: inline;
-}
-
-
-
-
-div{
-    /* display: inline; */
+div {
     margin: 20px;
     padding: 20px;
 }

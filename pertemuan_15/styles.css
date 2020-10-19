@@ -1,0 +1,26 @@
+div.container{
+    background-color: blue;
+    position: relative;
+    width: 300px;
+    height: 300px;
+}
+
+div.box1{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+
+}
+
+div.box2{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+}
+
+div.box3{
+    width: 100px;
+    height: 100px;
+    background-color:green;
+}
